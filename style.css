@@ -355,6 +355,10 @@ strong {
         display: none;
     }
 
+    .barra-pesquisa {
+        display: none;
+    }
+
     [name="compass-outline"],
     [name="heart-outline"],
     [name="person-outline"] {
